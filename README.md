@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shanmugamrskfamily&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugamrskfamily&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Shanmugamrskfamily&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shanmugamrskfamily&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -25,4 +27,3 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shanmugamrskfamily&icon=0&color=0)](https://visitcount.itsvg.in)
