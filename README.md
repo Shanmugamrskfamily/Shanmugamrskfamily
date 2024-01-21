@@ -12,6 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shanmugamrskfamily&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugamrskfamily&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 [![](https://visitcount.itsvg.in/api?id=shanmugamrskfamily&icon=4&color=2)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
@@ -25,5 +26,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
