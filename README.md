@@ -1,4 +1,4 @@
-<div style="height: 100vh; display: flex; justify-content: center; align-items: center; text-align:center">
+<div style="display: flex; justify-content: center; align-items: center; text-align:center">
   <img alt="Coding" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" style="width: 50%; height:50%; display: inline-block; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 </div>
 
