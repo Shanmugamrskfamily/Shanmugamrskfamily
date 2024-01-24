@@ -1,21 +1,7 @@
-<style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-
-  img {
-    width: 50%;
-    height: 50%;
-  }
-</style>
-
-<div>
-  <img alt="Coding" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+<div style="display: flex; justify-content: center; align-items: center; text-align:center">
+  <img alt="Coding" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" style="width: 50%; height:50%;top: 50%; left: 50%; transform: translate(-50%, -50%);">
 </div>
+
 # 💫 About Me:
 🔭 I’m currently working on FullStack Projects<br>🌱 I’m currently learning MERN and Tailwind CSS<br>👯 I’m looking to collaborate on Logical and Problem Solving<br>🤝 I’m looking for help with Doing New Projects<br>💬 Ask me about my transition from being an Operating Engineer in the tire manufacturing industry to embarking on a journey in tech, or anything related to fullstack development and the MERN stack. I'm always excited to share my experiences and learn from others.<br>📫 Reach me on shanmugamrskfamily@gmail.com
 
