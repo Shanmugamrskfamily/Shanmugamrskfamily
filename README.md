@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmugamrskfamily) <br><br>
 <span style="height:50px,width:50px">[![HackerRank](https://hrcdn.net/hackerrank/assets/favicon-69d2a5f80ad413089c703bf9947bfa75582c3f13fdb0a1db26fe5b59d8bfd4ce.png)](https://www.hackerrank.com/profile/shanmugamr)</span>
 
-img[src*="https://hrcdn.net/hackerrank/assets/favicon-69d2a5f80ad413089c703bf9947bfa75582c3f13fdb0a1db26fe5b59d8bfd4ce.png"] {
+img[src="https://hrcdn.net/hackerrank/assets/favicon-69d2a5f80ad413089c703bf9947bfa75582c3f13fdb0a1db26fe5b59d8bfd4ce.png"] {
     background-color: #f5f5f5;
     height:20px;
     width:20px;
