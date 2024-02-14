@@ -3,7 +3,6 @@
 </div>
 
 # 💫 About Me:
-
 🔭 I’m currently working on FullStack Projects<br>🌱 I’m currently learning MERN and Tailwind CSS<br>👯 I’m looking to collaborate on Logical and Problem Solving<br>🤝 I’m looking for help with Doing New Projects<br>💬 Ask me about my transition from being an Operating Engineer in the tire manufacturing industry to embarking on a journey in tech, or anything related to fullstack development and the MERN stack. I'm always excited to share my experiences and learn from others.<br>📫 Reach me on shanmugamrskfamily@gmail.com
 
 
