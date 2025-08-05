@@ -3,7 +3,19 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on FullStack Projects<br>🌱 I’m currently learning MERN and Tailwind CSS<br>👯 I’m looking to collaborate on Logical and Problem Solving<br>🤝 I’m looking for help with Doing New Projects<br>💬 Ask me about my transition from being an Operating Engineer in the tire manufacturing industry to embarking on a journey in tech, or anything related to fullstack development and the MERN stack. I'm always excited to share my experiences and learn from others.<br>📫 Reach me on shanmugamrskfamily@gmail.com
+👋 Hi, I’m Shanmugam R — a passionate Junior Software Engineer with a background in both manufacturing operations and web development.
+
+🚀 Currently based in Hyderabad, I’m working at Storytech Pvt Ltd, where I build robust, scalable web applications using React.js, Next.js, Tailwind CSS, and a variety of modern UI libraries.
+Previously, I led teams and drove process improvements as an Operating Engineer at Michelin, before pivoting to tech.
+
+💡 I specialize in frontend development, have hands-on experience in both static and dynamic web projects (featured on projects like Workruit and DEET portals), and am committed to writing secure, maintainable code.
+
+🌱 I’m currently sharpening my TypeScript skills and deepening my backend experience with Node.js and Express (MERN stack), focused on becoming a versatile full stack developer.
+
+🛠️ Eager to collaborate on challenging projects and open to discussions about web technologies, app security, and the path from industry operations to software engineering.
+
+📫 Let’s connect!
+Feel free to reach out or explore my projects here on GitHub to see what I'm working on next.
 
 
 ## 🌐 Socials:
