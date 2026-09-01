@@ -1,197 +1,206 @@
-<!-- Header -->
+<!-- 
+=================================================================
+  SHANMUGAM R — GITHUB PROFILE README
+  Copy this file to a repo named exactly: Shanmugamrskfamily/Shanmugamrskfamily
+  (The repo name MUST match your username for it to render on your profile.)
+  Save as README.md at the repo root.
+=================================================================
+-->
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > initializing portfolio...                            ║
-║   > loading: Shanmugam R                                 ║
-║   > role: Frontend Developer                             ║
-║   > stack: React.js · Next.js · TypeScript               ║
-║   > status: [ ● OPEN TO WORK ] Immediate joiner         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<!-- Animated typing header -->
+<a href="https://shanmugam-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shanmugam+R;Frontend+Developer+%7C+React.js+%26+Next.js;Building+secure%2C+scalable+production+web+apps;Open+to+opportunities+in+Chennai+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# `<Shanmugam R />`
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-### Frontend Developer — React.js & Next.js
+<!-- Profile visitor + follower + open-to-work badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Shanmugamrskfamily&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Shanmugamrskfamily?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Chennai%20%7C%20Remote-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Immediate-Joiner-FFD93D?style=for-the-badge&logo=clockify&logoColor=black" alt="Immediate Joiner" />
+</p>
 
-**Chennai, India** · Building fast, secure & scalable production web apps
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0891b2?style=for-the-badge&logoColor=white)](https://shanmugam-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugamrskfamily/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugamrskfamily@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume_↓-18181b?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=10_yM23wxxbtHvaIPm3TZSf7gfBjVNuxU)
+<!-- Quick links -->
+<p>
+  <a href="https://shanmugam-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shanmugamrskfamily/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shanmugamrskfamily@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rstechnologies.in/"><img src="https://img.shields.io/badge/Live_Project-rstechnologies.in-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project" /></a>
+</p>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🧭 About Me
 
-```yaml
-name:         Shanmugam R
-role:         Frontend Developer
-experience:   2+ years production
-location:     Chennai, Tamil Nadu, India
-availability: Immediate joiner — open to full-time roles
-
-shipped:
-  - DEET Job Portal     → Government of Telangana (Live)
-  - DEET Admin Panel    → Government of Telangana (Live)
-  - DEET Public Website → Government of Telangana (Live)
-  - DEET Migration      → AngularJS → Next.js (In QA)
-  - Workruit Master     → SaaS Recruitment Platform (Live)
-  - Workruit Website    → SaaS Marketing Site (Live)
-
-background:
-  - 6 years Operations Team Leader @ Michelin India
-  - Deliberate career switch to Software Engineering
-  - Brings: ownership, process discipline, structured problem-solving
-
-currently_learning:
-  - TypeScript (advanced patterns)
-  - Next.js App Router deep dive
-  - Web Performance optimization
+```typescript
+const shanmugam = {
+  role: "Frontend Developer",
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  experience: "2.5+ years in production web applications",
+  currentFocus: ["React.js", "Next.js", "TypeScript", "Full-Stack Delivery"],
+  recentGrowth: "Freelance full-stack build → Next.js/Express + JWT/RBAC + AES-256",
+  background: "6 years leading production teams at Michelin before switching to software",
+  learning: ["Node.js depth", "TypeScript advanced patterns", "System Design"],
+  askMeAbout: ["React", "Next.js", "AngularJS→Next.js migrations", "Web Security"],
+  funFact: "I use Claude Code to accelerate real production migrations 🤖",
+};
 ```
 
----
-
-## `$ cat tech_stack.json`
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**UI & Styling**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Backend (Foundational)**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I'm a Frontend Developer who cares deeply about **clean architecture, security, and shipping things that work**. My path is a little different — six years leading a production team at Michelin before making a deliberate switch into software. That gave me the discipline and ownership I bring into every project.
 
 ---
 
-## `$ ls -la ./projects/`
+## 🚀 Featured Live Projects
 
-| Project | Type | Tech | Status |
-|---------|------|------|--------|
-| [**DEET Job Portal**](https://deet.telangana.gov.in/) | Govt · Production | Angular.js, Firebase, CSP | 🟢 Live |
-| [**DEET Admin Panel**](https://deet.telangana.gov.in/) | Govt · Production | Next.js, Chart.js, ExcelJS | 🟢 Live |
-| [**DEET Public Website**](https://deet.telangana.gov.in/) | Govt · Production | Next.js, Formik, SEO | 🟢 Live |
-| **DEET Migration** | Migration | AngularJS → Next.js, Claude Code | 🟡 QA |
-| [**Workruit Master**](https://app.workruit.com/) | SaaS · Production | Next.js, Redux, Firebase | 🟢 Live |
-| [**Workruit Website**](https://www.workruit.com/) | SaaS · Marketing | Next.js, Bootstrap, SEO | 🟢 Live |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **Lead Frontend Developer** for all 6 projects at Storytech Pvt Ltd
+### 🏛️ DEET — Govt. of Telangana Job Portal
+Multi-role platform serving job seekers, employers, and government departments across **all 33 Telangana districts**. Multi-role dashboards, interview scheduling, Firebase push notifications, CSP/XSS security hardening.
+
+**Stack:** `Next.js` · `Angular.js` · `Firebase` · `Chart.js`
+
+🔗 [deet.telangana.gov.in](https://deet.telangana.gov.in)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Workruit — B2B Recruitment SaaS
+Multi-role recruitment SaaS with role-based team access, interview scheduling, offer letter workflows, and a template-based portfolio builder.
+
+**Stack:** `Next.js` · `Redux` · `REST APIs`
+
+🔗 [app.workruit.com](https://app.workruit.com) · [workruit.com](https://workruit.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ RS Technologies — Full-Stack Freelance
+Solo end-to-end build. **4-role JWT/RBAC** with server-side-fresh permission checks, **custom AES-256 encrypted API envelope**, internal admin CRM, 260+ page product catalog, zero-downtime DNS migration from WordPress.
+
+**Stack:** `Next.js 16` · `Express` · `MongoDB` · `JWT` · `AES-256`
+
+🔗 [rstechnologies.in](https://rstechnologies.in/)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ shanmugam-portfolio
+Personal portfolio built with a **claymorphism design system** — violet/coral/amber/teal palette, soft 3D shadows, custom typography pairing. Showcases live production work and case studies.
+
+**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
+
+🔗 [shanmugam-portfolio.vercel.app](https://shanmugam-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git log --oneline --graph`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanmugamrskfamily&show_icons=true&theme=github_dark&hide_border=true&bg_color=09090b&title_color=22d3ee&icon_color=a78bfa&text_color=a1a1aa&ring_color=0891b2)](https://github.com/Shanmugamrskfamily)
+### Core Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,redux" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugamrskfamily&layout=compact&theme=github_dark&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=a1a1aa&langs_count=8)](https://github.com/Shanmugamrskfamily)
+### Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shanmugamrskfamily&theme=dark&hide_border=true&background=09090b&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=a1a1aa&dates=52525b)](https://github.com/Shanmugamrskfamily)
+### Tooling & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,npm,vercel,netlify,aws,figma" />
+</p>
+
+### Testing & Process
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,jira" />
+</p>
 
 </div>
 
 ---
 
-## `$ cat ./experience/highlights.txt`
-
-```diff
-+ 2024–2026  Junior Software Engineer @ Storytech Pvt Ltd, Hyderabad
-             Lead developer: DEET suite (Govt of Telangana) + Workruit SaaS
-             → Built multi-role Govt job portal: jobseekers, employers, consultancies
-             → Engineered role-based Admin Panel: 5 access levels, Chart.js, ExcelJS
-             → Led AngularJS → Next.js migration with AI-assisted tooling (Claude Code)
-
-+ 2024       Web Developer Intern @ VeriTech Software IT Services, Pune (Remote)
-             → Built responsive production web apps with React.js
-
-+ 2023       Frontend Developer Intern @ Senchola Technology Solutions, Chennai (Remote)
-             → Developed scalable UIs with React.js and Bootstrap
-
-- 2017–2023  Operating Engineer L1 @ Michelin India Pvt Ltd, Thiruvallur
-             → Led 3-member operations team · Safety Spoke · Promoted Apr 2022
-             → Switched careers deliberately into software engineering
-```
-
----
-
-## `$ cat ./education/degrees.md`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  B.Sc. Computer Science (Allied Physics & Mathematics)  │
-│  Loganatha Narayanasamy Govt College, Ponneri           │
-│  University of Madras · 2013–2016 · 70%                │
-└─────────────────────────────────────────────────────────┘
-┌─────────────────────────────────────────────────────────┐
-│  Full Stack Development (MERN)                          │
-│  GUVI — IIT Madras incubated · 2023                     │
-│  Credential: guvi.in/share-certificate/0e070P9370L4BEj19V│
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ ping shanmugam --connect`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shanmugam--portfolio.vercel.app-0891b2?style=for-the-badge)](https://shanmugam-portfolio.vercel.app)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shanmugamrskfamily&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmugamrskfamily&theme=tokyonight&hide_border=true" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/shanmugamrskfamily-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugamrskfamily/)
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugamrskfamily&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-[![Gmail](https://img.shields.io/badge/Email-shanmugamrskfamily@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugamrskfamily@gmail.com)
+<br /><br />
 
-```
-// Response time: < 24 hours
-// Location: Chennai, Tamil Nadu, India
-// Open for: Full-time Frontend roles · React.js / Next.js
-```
+<!-- Contribution graph animation -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugamrskfamily&theme=tokyo-night&hide_border=true&area=true" />
+
+<br />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shanmugamrskfamily&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
 ---
 
+## 🏗️ What I've Actually Shipped
+
 <div align="center">
 
-*`// Built with React.js, Next.js & TypeScript — always shipping, always learning`*
+| Metric | Count |
+|:---|:---:|
+| 🚀 Production products delivered | **6** |
+| 🏛️ Government-scale applications | **2** |
+| 🔐 Custom auth systems built (JWT/RBAC) | **2** |
+| 🌐 Live domains I currently maintain | **3** |
+| 🔄 Legacy migrations led (AngularJS → Next.js) | **1** |
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shanmugamrskfamily&color=0891b2&style=flat-square&label=profile+views)
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Actively looking for **Frontend / Full-Stack Developer** roles in **Chennai** (on-site or hybrid)
+- 🌱 Deepening my **Node.js and system design** knowledge
+- 💬 Ask me about **React, Next.js, or migrating legacy Angular apps to modern stacks**
+- 📫 Reach me at **shanmugamrskfamily@gmail.com**
+- ⚡ Fun fact: I use **Claude Code** to accelerate real production refactors, treating AI as a pair programmer, not a shortcut
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/shanmugamrskfamily/">
+    <img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shanmugam-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_my-Portfolio-6C63FF?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<!-- Bottom wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%" />
+
+<em>Thanks for stopping by! ⭐ Consider starring a repo if my work has been useful to you.</em>
 
 </div>
