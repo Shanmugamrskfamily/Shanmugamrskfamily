@@ -11,7 +11,7 @@
 
 <!-- Animated typing header -->
 <a href="https://shanmugam-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shanmugam+R;Frontend+Developer+%7C+React.js+%26+Next.js;Building+secure%2C+scalable+production+web+apps;Open+to+opportunities+in+Chennai+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shanmugam+R;Frontend+Developer+%7C+React.js+%26+Next.js;Building+secure%2C+scalable+production+web+apps;Open+to+Full-Stack%2FFrontend+roles+-+Chennai%2C+Bangalore%2C+Hyderabad+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Animated wave banner -->
@@ -21,7 +21,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shanmugamrskfamily&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Shanmugamrskfamily?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Chennai%20%7C%20Remote-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Chennai%20%7C%20Bangalore%20%7C%20Hyderabad%20%7C%20Remote-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Immediate-Joiner-FFD93D?style=for-the-badge&logo=clockify&logoColor=black" alt="Immediate Joiner" />
 </p>
 
@@ -41,8 +41,9 @@
 
 ```typescript
 const shanmugam = {
-  role: "Frontend Developer",
+  role: "Frontend / Full-Stack Developer",
   location: "Chennai, Tamil Nadu, India 🇮🇳",
+  openTo: ["Chennai", "Bangalore", "Hyderabad", "Remote", "Hybrid", "On-site"],
   experience: "2.5+ years in production web applications",
   currentFocus: ["React.js", "Next.js", "TypeScript", "Full-Stack Delivery"],
   recentGrowth: "Freelance full-stack build → Next.js/Express + JWT/RBAC + AES-256",
@@ -177,7 +178,7 @@ Personal portfolio built with a **claymorphism design system** — violet/coral/
 
 ## 🎯 Currently
 
-- 🔭 Actively looking for **Frontend / Full-Stack Developer** roles in **Chennai** (on-site or hybrid)
+- 🔭 Actively looking for **Full Stack Developer / Frontend Developer** roles in **Chennai, Bangalore, and Hyderabad** — open to **On-site, Hybrid, or Remote**, full-time
 - 🌱 Deepening my **Node.js and system design** knowledge
 - 💬 Ask me about **React, Next.js, or migrating legacy Angular apps to modern stacks**
 - 📫 Reach me at **shanmugamrskfamily@gmail.com**
@@ -204,3 +205,5 @@ Personal portfolio built with a **claymorphism design system** — violet/coral/
 <em>Thanks for stopping by! ⭐ Consider starring a repo if my work has been useful to you.</em>
 
 </div>
+
+---
