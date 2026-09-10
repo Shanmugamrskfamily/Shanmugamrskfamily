@@ -19,7 +19,7 @@
 
 <!-- Profile visitor + follower + open-to-work badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Shanmugamrskfamily&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shanmugamrskfamily.Shanmugamrskfamily&left_text=Profile%20views&left_color=6C63FF&right_color=6C63FF" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Shanmugamrskfamily?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Chennai%20%7C%20Bangalore%20%7C%20Hyderabad%20%7C%20Remote-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Immediate-Joiner-FFD93D?style=for-the-badge&logo=clockify&logoColor=black" alt="Immediate Joiner" />
